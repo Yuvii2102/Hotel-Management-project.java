@@ -1,4 +1,4 @@
-                                                         Hotel-Management-Project
+                                              Hotel-Management-Project
 
 - This is a Hotel Management tool which can be used to manage
 activites like storing customer details, booking rooms of four different types, ordering food
@@ -13,7 +13,7 @@ tries to book an already allotted room. Exception handling is properly done to d
 kind of unexpected exception.
 
 ---
-                                                       Topics Covered in this Project
+                                              Topics Covered in this Project
 - Classes and Objects
 - Inheritance
 - File Handling with Objects
