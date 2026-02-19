@@ -1,6 +1,6 @@
-# Hotel-Management-Project
+                                                         Hotel-Management-Project
 
-This is a Hotel Management tool which can be used to manage
+- This is a Hotel Management tool which can be used to manage
 activites like storing customer details, booking rooms of four different types, ordering food
 for particular rooms, unbooking rooms and showing the bill. It can also be used to see
 different room features and room availability. It is a menu driven program and it runs until
@@ -13,6 +13,11 @@ tries to book an already allotted room. Exception handling is properly done to d
 kind of unexpected exception.
 
 ---
-##### Topics Covered-  
-Classes and Objects, Inheritance, File Handling with Objects, ArrayList, implementing
-Interface, User defined exception and Exception handling.
+                                                       Topics Covered in this Project
+- Classes and Objects
+- Inheritance
+- File Handling with Objects
+- ArrayList
+- Implementing Interface
+- User defined exception
+- Exception handling.
