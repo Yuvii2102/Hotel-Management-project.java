@@ -16,5 +16,5 @@ kind of unexpected exception.
 
 - Topics Covered in this Project
 
-       - Classes and Objects  - Inheritance - File Handling with Objects - ArrayList - Implementing Interface - User defined exception - Exception handling.
+       - Classes and Objects  - Inheritance  - File Handling with Objects  - ArrayList  - Implementing Interface  - User defined exception  - Exception handling.
 
